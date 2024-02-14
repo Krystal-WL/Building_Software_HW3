@@ -1,0 +1,7 @@
+
+group_col: 'OCCUPANCY_DATE'
+
+plot_config:
+  title: 'Total Service User Over Time'
+  xlabel: 'occupancy date'
+  ylabel: 'total service user'
